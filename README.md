@@ -18,8 +18,6 @@ This project demonstrates how data-driven approaches can optimize inventory mana
 ---
 
 
----
-
 ## 🚀 Tech Stack
 **Programming & ML:**
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
@@ -39,6 +37,8 @@ This project demonstrates how data-driven approaches can optimize inventory mana
 Here’s a preview of the Sales Forecasting Dashboard built with Power BI:
 
 ![Sales Forecasting Dashboard](Sales-Forecast-DashBoard/PowerBI/forecast.png)
+![Sales Forecasting Dashboard](Sales-Forecast-DashBoard/PowerBI/forecast.png)
+
 
 ---
 
