@@ -37,7 +37,7 @@ This project demonstrates how data-driven approaches can optimize inventory mana
 Here’s a preview of the Sales Forecasting Dashboard built with Power BI:
 
 ![Sales Forecasting Dashboard](PowerBI/forecast.png)
-![Sales Forecasting Dashboard](Sales-Forecast-DashBoard/PowerBI/forecast.png)
+![Sales Forecasting Dashboard](https://github.com/vkoti6159/FUTURE_ML_01/blob/main/PowerBI/forecast.png?raw=true)
 
 
 ---
