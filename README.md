@@ -32,7 +32,7 @@ This project demonstrates how data-driven approaches can optimize inventory mana
 
 ## 📊 Dashboard Preview
 
-
+![Sales Forecasting Dashboard](PowerBI/forecast.png)
 
 Here’s a preview of the Sales Forecasting Dashboard built with Power BI:
 
